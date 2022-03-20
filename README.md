@@ -7,7 +7,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
 插件包含有且仅有：clash、passwall、passwall_2、ssr+、Bypass、京东签到、广告屏蔽大师+
-plug-in only contained: clash, passwall, passwall2, ssr+, Bypass, jd-dailybonus, adbyby-plus
+!plug-in only contained: clash, passwall, passwall2, ssr+, Bypass, jd-dailybonus, adbyby-plus
 
 ## Usage
 
