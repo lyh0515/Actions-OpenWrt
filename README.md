@@ -6,7 +6,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
-A template for building OpenWrt with GitHub Actions
+插件包含有且仅有：clash、passwall、passwall_2、ssr+、Bypass、京东签到、广告屏蔽大师+
+plug-in only contained: clash, passwall, passwall2, ssr+, Bypass, jd-dailybonus, adbyby-plus
 
 ## Usage
 
